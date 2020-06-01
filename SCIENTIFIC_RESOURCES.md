@@ -48,9 +48,7 @@ The implementation of the ROBERT protocol and the StopCovid application were bas
 
 The report (in French) Analyse du contact tracing numérique by Bertrand Thirion (Inria), Alain Barrat (CNRS), Chiara Poletto (INSERM), Alexandra Mailles (Santé Publique France), Moez Draief (Capgemini), Roxane Adle (Orange), Vittoria Colizza (INSERM) is here: [https://gitlab.inria.fr/stopcovid19/accueil/-/tree/master/documentation/WP4.3.pdf](https://gitlab.inria.fr/stopcovid19/accueil/-/tree/master/documentation/WP4.3.pdf).
 
-## DATA 
-
-### Other resources
+## Other resources
 
 Several documents are available on the web pages of the PEPP-PT (Pan-European Privacy-Preserving Proximity Tracing) initiative. PEPP-PT (hint: which is no more active to date) initiates the concept to provide a common basis for management systems that can be integrated into national public health responses to the COVID-19 pandemic. 
 
