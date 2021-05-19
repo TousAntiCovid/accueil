@@ -9,7 +9,9 @@ Fixer les conventions d'usage kafka. Elles s'inspirent de [ce post sur devshawn.
 Les noms des topics :
 
 - sont en minuscules
-- ne contiennent que les caractères `a-z`, `0-9` et `.`
+- ne contiennent que les caractères `a-z`, `0-9`, `-` et `.`
+- `.` est un caractère réservé pour séparer les termes qui structurent le nom du topic
+- si un terme est composé de plusieurs mots, il utilise le _kebab-base_
 - sont structurés de la manière suivante :
 
     <environnement>.<domaine>.<classification>.<description>(.<version>)?
