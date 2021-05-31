@@ -14,15 +14,15 @@ Les noms des topics :
 - si un terme est composé de plusieurs mots, il utilise le _kebab-base_
 - sont structurés de la manière suivante :
 
-    <environnement>.<domaine>.<classification>.<description>(.<version>)?
+      <environnement>.<domaine>.<classification>.<description>(.<version>)?
 
-    environnement:  [ "int" | "preprod" | "prod" ]
-    domaine:        mots
-    classification: [ "fct" | "cdc" | "cmd" | "sys" ]
-    description:    mots
-    version:        nombre
-    mot:            [a-z0-9]+
-    nombre:         [0-9]+
+      environnement:  [ "int" | "preprod" | "prod" ]
+      domaine:        mots
+      classification: [ "fct" | "cdc" | "cmd" | "sys" ]
+      description:    mots
+      version:        nombre
+      mot:            [a-z0-9]+
+      nombre:         [0-9]+
 
 ### Domaine
 
